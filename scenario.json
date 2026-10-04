@@ -1,0 +1,8 @@
+[
+  {"duration": 20, "profile": "clean"},
+  {"duration": 20, "profile": "4g"},
+  {"duration": 20, "profile": "3g"},
+  {"duration": 20, "profile": "bad_wifi"},
+  {"duration": 20, "profile": "disaster"},
+  {"duration": 20, "profile": "clean"}
+]
