@@ -1,8 +1,3 @@
-Yes. I’d make the README more **mentor-friendly**: first explain what the project does, then show the architecture, then explain the workflow and commands.
-
-You can replace your current README with this structure. It keeps the technical details from your project but makes the architecture much easier to understand.
-
-````markdown
 # Network Latency & Packet-Loss Chaos Emulator
 
 A C++17 based Linux network chaos emulator for testing how applications behave under unreliable network conditions such as latency, jitter, packet loss, bandwidth limitations, packet reordering, duplication, corruption, and network outages.
